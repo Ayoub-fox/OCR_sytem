@@ -1,0 +1,17 @@
+README page_writer_tab_set_X.README
+
+MAIN IDEA: 
+- correlation between written form-pages (e.g. "pa111.tif") and writer name (e.g. "e02") 
+- some advanced information are available:
+FILE TAGS: 
+	- BWL:= begin writer list
+	- WID:= writerID 
+	- NOP:= number of pages belongs to the writer
+	- FIL:= file name 
+	- BWI:= begin writer information
+	- VIL:= village/town description (taken from form)
+	- NCD:= name code (taken from form)
+	- AID:= age/profession code (e.g. AID:21 := age 21-30 & student)   
+	- QGL:= writer quality (W1=OK; W2=bad)
+	- EWI:= end of writer information
+	- EWL:= end of writer list
